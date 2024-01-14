@@ -56,3 +56,29 @@
 // console.log(triArea(3, 2)); // Output: 3
 // console.log(triArea(7, 4)); // Output: 14
 // console.log(triArea(10, 10)); // Output: 50
+
+
+//**Power Calculator
+
+
+// Create a function that takes voltage and current and returns the calculated power.
+
+// Examples
+// circuitPower(230, 10) ➞ 2300
+
+// circuitPower(110, 3) ➞ 330
+
+// circuitPower(480, 20) ➞ 9600 
+
+
+// **Solutions**
+
+
+// function circuitPower(voltage, current) {
+//     return voltage * current;
+// }
+
+// // Examples
+// console.log(circuitPower(230, 10)); // Output: 2300
+// console.log(circuitPower(110, 3));  // Output: 330
+// console.log(circuitPower(480, 20)); // Output: 9600
