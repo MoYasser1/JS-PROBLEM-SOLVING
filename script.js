@@ -58,7 +58,7 @@
 // console.log(triArea(10, 10)); // Output: 50
 
 
-//**Power Calculator
+//**  
 
 
 // Create a function that takes voltage and current and returns the calculated power.
