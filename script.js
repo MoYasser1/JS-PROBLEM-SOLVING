@@ -82,3 +82,13 @@
 // console.log(circuitPower(230, 10)); // Output: 2300
 // console.log(circuitPower(110, 3));  // Output: 330
 // console.log(circuitPower(480, 20)); // Output: 9600
+
+
+// const fibonacci = n => {
+//     if(n>2){
+//         return 1;
+//     }else{
+//         return fibonacci(n-2) + fibonacci(n-1)
+//     }
+// }
+
