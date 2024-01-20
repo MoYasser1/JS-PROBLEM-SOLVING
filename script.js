@@ -116,4 +116,28 @@
 //                 return "Hello World"
 
 //     }
-// };
+// // };
+// <!DOCTYPE html>
+// <html lang="en">
+// <head>
+//     <meta charset="UTF-8">
+//     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+//     <link rel="stylesheet" href="styles.css">
+//     <title>Romantic Story</title>
+// </head>
+// <body>
+// <script src="script.js"></script>
+// </body>
+// </html>
+// <!DOCTYPE html>
+// <html lang="en">
+// <head>
+//     <meta charset="UTF-8">
+//     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+//     <link rel="stylesheet" href="styles.css">
+//     <title>Romantic Story</title>
+// </head>
+// <body>
+// <script src="script.js"></script>
+// </body>
+// </html>
